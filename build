@@ -6,5 +6,5 @@ public class Main {
 		System.out.println(" Hello, World ! ") ;
 	}
 }
-' > /tmp/ajc/Main.java
-javac /tmp/ajc/Main.java
+' > /var/lib/jenkins/workspace/PremierGit/Main.java
+javac /var/lib/jenkins/workspace/PremierGit/Main.java
